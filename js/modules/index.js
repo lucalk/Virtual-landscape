@@ -1,0 +1,12 @@
+//export { Immeuble } from './Immeuble.js';
+//export { Triangle } from './Triangle.js';
+//export { Planete } from './Planete.js';
+//export { AbstractForm } from './AbstractForm.js';
+//export { Smiley } from './Smiley.js';
+export { Fusee } from './fusee.js';
+//export { Deuxieme } from './Deuxieme.js';
+export { Troisieme } from './Troisieme.js';
+export { FloconDeNeige } from './FloconDeNeige.js';
+export { Poule } from './Poule.js';
+export { Soleil } from './Soleil.js';
+export { Herbe } from './Herbe.js';
